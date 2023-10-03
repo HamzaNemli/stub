@@ -1,0 +1,130 @@
+{
+  "Articles": {
+    "Post List": [
+      {
+        "Title": "Camera Shenanigans",
+        "Image": "https://tipsapp.xyz/soufian/guys/1.jpg",
+        "State": "free",
+        "Text/Html": "<p>The invention of the telephone is often attributed to <b>Alexander Graham</b> Bell, who patented his 'improvement in telegraphy' in 1876. The telephone revolutionized communication, enabling people to talk to each other over long distances without the need for physical presence. Bell's telephone was a groundbreaking invention that paved the way for the development of modern telecommunications.</p><p>In the early days of the telephone, communication was facilitated by operators who manually connected calls. Over time, advancements in technology led to the automation of call routing and the development of digital communication systems. Today, smartphones are ubiquitous, providing not only voice communication but also text messaging, internet access, and a wide range of applications.</p><h4>Telecommunications has evolved beyond the traditional telephone:<br></h4><p>to include video conferencing, instant messaging, and social media platforms. The global network of interconnected devices, often referred to as the internet of things (IoT), has further transformed how we communicate and share information.</p><p>As technology continues to advance, the field of telecommunications remains dynamic and constantly evolving. From the early days of the telephone to the modern era of digital connectivity, the way we communicate has been shaped by innovative thinkers and inventors.<br><br></p>"
+      },
+      {
+        "Title": "Daily Dose Of Advertisement",
+        "Image": "https://tipsapp.xyz/soufian/guys/2.jpg",
+        "State": "free",
+        "Text/Html": "<p><b>The sport is first-rate sufficient to praise you with a loose pores and skin everyday</b> You simply ought to watch 5 commercials to get it. The sport additionally every now and then offers you a gem praise after a match, irrespective of how poorly you did. You ought to watch an advert to get it too. The loose skins are forever, aleven though the gemstones are restrained to 50 motion pictures total, counting each store motion pictures and post-sport motion pictures. If you need to make the maximum of it, you ought to get best the post-sport commercials, due to the fact that the store commercials best supply eight gemstones in step with advert in place of 10.</p><p>The invention of the telephone is often attributed to Alexander Graham Bell, who patented his improvement in telegraphy in 1876. The telephone revolutionized communication, enabling people to talk to each other over long distances without the need for physical presence. Bell's telephone was a groundbreaking invention that paved the way for the development of modern telecommunications.</p><p>In the early days of the telephone, communication was facilitated by operators who manually connected calls. Over time, advancements in technology led to the automation of call routing and the development of digital communication systems. Today, smartphones are ubiquitous, providing not only voice communication but also text messaging, internet access, and a wide range of applications.</p><p>Telecommunications has evolved beyond the traditional telephone to include video conferencing, instant messaging, and social media platforms. The global network of interconnected devices, often referred to as the internet of things (IoT), has further transformed how we communicate and share information.</p><p>As technology continues to advance, the field of telecommunications remains dynamic and constantly evolving. From the early days of the telephone to the modern era of digital connectivity, the way we communicate has been shaped by innovative thinkers and inventors.<br><br></p>"
+      },
+      {
+        "Title": "Saving Gems",
+        "Image": "https://tipsapp.xyz/soufian/guys/3.jpg",
+        "State": "vip",
+        "Text/Html": "<p><b>Resist the urge to buy random skins along with gems.</b> Save for the updated Stumble Pass. This is a great way to finally unblock Punch his emote. This is more than just an emote. They use it to attack the player and give a real knockback. You pay for jewelry, not real money. It's a long loop, but aside from the peeling, it's really worth it because you're prepping your skin every day.Instead of buying random skins, you can also make the most of the gems you get.Unfortunately, you can't The best way is to check the store for the 50 free gems promotion, which saves you up to 1/2  what you need and what you have to pay for in giveaways and tourTitlents. Relaxation guaranteed. These can be obtained by becoming a member of his Discord server in-game. A Text/Html to this server can be found in the news phase of the main menu.</p>"
+      },
+      {
+        "Title": "Beware Of Boxers",
+        "Image": "https://tipsapp.xyz/soufian/guys/4.jpg",
+        "State": "free",
+        "Text/Html": "<b></b><p>If you be aware a person use a coronary heart or boxing glove emote, beware.</p><p>Those emotes are unique ones you could simplest get through grinding gems [or paying for them] and shopping for the Stumble Pass. The punch can knock you over. Even worse is the coronary heart emote, which we could the participant hug and convey every other participant, frequently off a cliff. Not to say those gamers are normally veterans, considering the fact that those emotes are a number of the closing rewards for the Stumble Pass.  These gamers are particularly risky withinside the maps Bombardment , Tile Fall, and Laser Tracer, wherein you'll frequently locate your self very near different gamers and the edge. Or in Laser Tracer`s case, being knocked over and immobilized is the closing aspect you want.</p>"
+      },
+      {
+        "Title": "Air Dash With Care",
+        "Image": "https://tipsapp.xyz/soufian/guys/5.jpg",
+        "State": "free",
+        "Text/Html": "<b></b><p>If you try and bounce in midair, you may do an air sprint.</p><p>Air rushing glaringly helps you to circulate quicker in midair, however you may be caught stomach sliding for a 2nd or so upon landing. Air rushing is a talent you may want to hone, as it's far very beneficial for bypassing traps, gaining speed, or rudely reducing in the front of a crowd. Unfortunately, a botched air sprint is sort of assured death, so use it wisely."
+      },
+      {
+        "Title": "Top Speed Belly Slide",
+        "Image": "https://tipsapp.xyz/soufian/guys/6.jpg",
+        "State": "vip",
+        "Text/Html": "<b></b><p>If you bounce and land on a sufficiently angled slope,</p><p>you'll at once pass on a stomach slide, no matter you air rushing or not. While that is very beneficial for gaining pace if the slope is pointed toward wherein you need to pass, the stomach slide is induced regardless of which course the slope factors with regards to you.</p>"
+      },
+      {
+        "Title": "Unlimited Gems",
+        "Image": "https://tipsapp.xyz/soufian/guys/7.png",
+        "State": "vip",
+        "Text/Html": "<b></b><p>Coming Soon.</p>"
+      },
+      {
+        "Title": "Unlimited Money",
+        "Image": "https://tipsapp.xyz/soufian/guys/8.jpg",
+        "State": "vip",
+        "Text/Html": "<b></b><p>Coming Soon.</p>"
+      },
+      {
+        "Title": "Unlocked Everything",
+        "Image": "https://tipsapp.xyz/soufian/guys/9.jpg",
+        "State": "vip",
+        "Text/Html": "<b></b><p>Coming Soon.</p>"
+      }
+    ]
+  },
+  "Ads Controller": {
+    "Ads Units": {
+      "Admob": {
+        "BannerId": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialId": "ca-app-pub-3940256099942544/1033173712",
+        "NativeId": "ca-app-pub-3940256099942544/2247696110",
+        "RewardId": "ca-app-pub-3940256099942544/5224354917",
+        "OpenAdId": "ca-app-pub-3940256099942544/3419835294"
+      },
+      "Facebook": {
+        "BannerId": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialId": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeId": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782"
+      },
+      "Applovin": {
+        "BannerId": "789ecf46a4aaa724",
+        "InterstitialId": "dc38bf7f5de3aa80",
+        "NativeId": "216dd9451b13b2d4",
+        "RewardId": "39c4ef881fa6e05d",
+        "OpenAdId": "57c0ea23bdb3c49b"
+      },
+      "Unity": {
+        "GameId": "4862004",
+        "BannerId": "Banner_Android",
+        "InterstitialId": "Interstitial_Android",
+        "RewardId": "Rewarded_Android",
+        "TestAds": true
+      },
+      "Huawei": {
+        "BannerId": "testw6vs28auh3",
+        "InterstitialId": "testb4znbuh3n2",
+        "NativeId": "testy63txaom86",
+        "RewardId": "testx9dtjwj8hp"
+      },
+      "Wortise": {
+        "AppId": "dab457bf-33ff-4b75-8412-cebf98212bfb",
+        "BannerId": "test-banner",
+        "InterstitialId": "test-interstitial",
+        "NativeId": "test-native",
+        "RewardId": "test-rewarded",
+        "OpenAdId": "test-app-open"
+      }
+    },
+    "Ads Configs": {
+      "Enable Mediation?": true,
+      "Interstitial Interval": 2,
+      "InterstitialList": ["wortise","admob","facebook","applovin","unity","huawei"],
+      "RewardedList": ["wortise","admob","applovin","unity","huawei"],
+      "Interstitial Network (If Mediation Disabled)": "wortise",
+      "Reward Network (If Mediation Disabled)": "wortise",
+      "Banner Network": "wortise",
+      "Native Network": "wortise",
+      "OpenAd Network": "wortise"
+    }
+  },
+  "App Settings": {
+    "Enable Activity MoreGames ?": false,
+    "Seconds Counter MoreGames Activity": 5,
+    "Onesignal Id": "67e11134-28a6-4857-b989-a8687dfc0cb4",
+    "Privacy Policy": "https://google.com",
+    "Enable Update Activity ?": false,
+    "Update Activity Customize": {
+      "Image Url": "",
+      "Title": "",
+      "Description": "",
+      "Button Text": "",
+      "Redirect Link": "https://google.com",
+      "Cancelable": true
+    }
+  }
+}
