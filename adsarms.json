@@ -1,0 +1,82 @@
+{
+  "Articles": {
+    "Post List": [
+      {
+        "Title": "Camera Shenanigans",
+        "Image": "https://tipsapp.xyz/chaiter/Guys/test.jpg",
+        "State": "vip",
+        "Text/Html": "<p>soon<b>soon</b></p>"
+      }
+    ]
+  },
+  "Ads Controller": {
+    "Ads Units": {
+      "Admob": {
+        "BannerId": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialId": "ca-app-pub-3940256099942544/1033173712",
+        "NativeId": "ca-app-pub-3940256099942544/2247696110",
+        "RewardId": "ca-app-pub-3940256099942544/5224354917",
+        "OpenAdId": "ca-app-pub-/3419835294"
+      },
+      "Facebook": {
+        "BannerId": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialId": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeId": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782"
+      },
+      "Applovin": {
+        "BannerId": "789ecf46a4aaa724",
+        "InterstitialId": "dc38bf7f5de3aa80",
+        "NativeId": "216dd9451b13b2d4",
+        "RewardId": "39c4ef881fa6e05d",
+        "OpenAdId": "57c0ea23bdb3c49b"
+      },
+      "Unity": {
+        "GameId": "4862004",
+        "BannerId": "Banner_Android",
+        "InterstitialId": "Interstitial_Android",
+        "RewardId": "Rewarded_Android",
+        "TestAds": true
+      },
+      "Huawei": {
+        "BannerId": "testw6vs28auh3",
+        "InterstitialId": "testb4znbuh3n2",
+        "NativeId": "testy63txaom86",
+        "RewardId": "testx9dtjwj8hp"
+      },
+      "Wortise": {
+        "AppId": "dab457bf-33ff-4b75-8412-cebf98212bfb",
+        "BannerId": "test-banner",
+        "InterstitialId": "test-interstitial",
+        "NativeId": "test-native",
+        "RewardId": "test-rewarded",
+        "OpenAdId": "test-app-open"
+      }
+    },
+    "Ads Configs": {
+      "Enable Mediation?": false,
+      "Interstitial Interval": 9898,
+      "InterstitialList": ["wortise","admob","facebook","applovin","unity","huawei"],
+      "RewardedList": ["wortise","admob","applovin","unity","huawei"],
+      "Interstitial Network (If Mediation Disabled)": "wortise",
+      "Reward Network (If Mediation Disabled)": "wortise",
+      "Banner Network": "wortise",
+      "Native Network": "wortise",
+      "OpenAd Network": "admob"
+    }
+  },
+  "App Settings": {
+    "Enable Activity MoreGames ?": false,
+    "Seconds Counter MoreGames Activity": 5,
+    "Onesignal Id": "27928c1e-7bed-4458-bec2-6f8767f24503",
+    "Privacy Policy": "https://tipsapp.xyz/",
+    "Enable Update Activity ?": true,
+    "Update Activity Customize": {
+      "Image Url": "",
+      "Title": "",
+      "Description": "",
+      "Button Text": "",
+      "Redirect Link": "https://play.google.com/store/apps/details?id=com.wolfilapp.simulatorbox.brawlstarsopenbox",
+      "Cancelable": false
+    }
+  }
+}
