@@ -60,11 +60,11 @@
   "Ads Controller": {
     "Ads Units": {
       "Admob": {
-        "BannerId": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialId": "ca-app-pub-3940256099942544/1033173712",
-        "NativeId": "ca-app-pub-3940256099942544/2247696110",
-        "RewardId": "ca-app-pub-3940256099942544/5224354917",
-        "OpenAdId": "ca-app-pub-3940256099942544/3419835294"
+        "BannerId": "ca-app-pub-3940256099942544/",
+        "InterstitialId": "ca-app-pub-/1033173712",
+        "NativeId": "ca-app-pub-3940256099942544/",
+        "RewardId": "ca-app-pub-3940256099942544/",
+        "OpenAdId": "ca-app-pub-3940256099942544/"
       },
       "Facebook": {
         "BannerId": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
@@ -105,11 +105,11 @@
       "Interstitial Interval": 2,
       "InterstitialList": ["wortise","admob","facebook","applovin","unity","huawei"],
       "RewardedList": ["wortise","admob","applovin","unity","huawei"],
-      "Interstitial Network (If Mediation Disabled)": "wortise",
-      "Reward Network (If Mediation Disabled)": "wortise",
-      "Banner Network": "wortise",
-      "Native Network": "wortise",
-      "OpenAd Network": "wortise"
+      "Interstitial Network (If Mediation Disabled)": "admob",
+      "Reward Network (If Mediation Disabled)": "admob",
+      "Banner Network": "admob",
+      "Native Network": "admob",
+      "OpenAd Network": "admob"
     }
   },
   "App Settings": {
