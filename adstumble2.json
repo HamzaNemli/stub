@@ -31,11 +31,11 @@
   "Ads Controller": {
     "Ads Units": {
       "Admob": {
-        "BannerId": "ca-app-pub-5133381234787267/",
-        "InterstitialId": "ca-app-pub-5133381234787267/",
-        "NativeId": "ca-app-pub-5133381234787267/",
-        "RewardId": "ca-app-pub-5133381234787267/",
-        "OpenAdId": "ca-app-pub-5133381234787267/"
+        "BannerId": "ca-app-pub-5133381234787267/4269038257",
+        "InterstitialId": "ca-app-pub-5133381234787267/6703629902",
+        "NativeId": "ca-app-pub-5133381234787267/6512058217",
+        "RewardId": "ca-app-pub-5133381234787267/1451303226",
+        "OpenAdId": "ca-app-pub-5133381234787267/2321477862"
       },
       "Facebook": {
         "BannerId": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
@@ -73,7 +73,7 @@
     },
     "Ads Configs": {
       "Enable Mediation?": false,
-      "Interstitial Interval": 12424,
+      "Interstitial Interval": 2,
       "InterstitialList": ["wortise","admob","facebook","applovin","unity","huawei"],
       "RewardedList": ["wortise","admob","applovin","unity","huawei"],
       "Interstitial Network (If Mediation Disabled)": "admob",
