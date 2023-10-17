@@ -60,11 +60,11 @@
   "Ads Controller": {
     "Ads Units": {
       "Admob": {
-        "BannerId": "ca-app-pub-5133381234787267/5956576988",
-        "InterstitialId": "ca-app-pub-5133381234787267/1669961935",
-        "NativeId": "ca-app-pub-5133381234787267/5765005298",
-        "RewardId": "ca-app-pub-5133381234787267/6185783839",
-        "OpenAdId": "ca-app-pub-5133381234787267/6886515274"
+        "BannerId": "ca-app-pub-5133381234787267/",
+        "InterstitialId": "ca-app-pub-5133381234787267/",
+        "NativeId": "ca-app-pub-5133381234787267/",
+        "RewardId": "ca-app-pub-5133381234787267/",
+        "OpenAdId": "ca-app-pub-5133381234787267/"
       },
       "Facebook": {
         "BannerId": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
@@ -92,12 +92,12 @@
         "RewardId": "testx9dtjwj8hp"
       },
       "Wortise": {
-        "AppId": "98d057d9-a366-4721-8dfe-2faa42bfbf3d",
-        "BannerId": "302e58e7-1d28-45ac-ac20-d80f4ff1ae59",
-        "InterstitialId": "0b91f82f-3c39-4ef8-982f-38869b016cad",
-        "NativeId": "3d5f8a61-f79a-4102-b7ca-b4330d40a355",
-        "RewardId": "4259c4ad-df6f-41d3-98c8-5809e404452d",
-        "OpenAdId": "5e1f29a9-67a7-46c5-a60e-29661b6ca9d2"
+        "AppId": "dcdda0b3-d4db-40a3-a683-08a31e218360",
+        "BannerId": "16d588ca-508a-44a3-985f-f8d14bdab752",
+        "InterstitialId": "b2efcb8a-6555-49ee-a79a-00f9177928cf",
+        "NativeId": "bedb4ee5-9a48-4b0d-825c-390d83fcb851",
+        "RewardId": "39f043fe-a1f8-493c-a911-4de753796f8e",
+        "OpenAdId": "98eff153-ddfd-4ada-b114-dce59cc54cf3"
       }
     },
     "Ads Configs": {
@@ -115,7 +115,7 @@
   "App Settings": {
     "Enable Activity MoreGames ?": false,
     "Seconds Counter MoreGames Activity": 5,
-    "Onesignal Id": "27928c1e-7bed-4458-bec2-6f8767f24503",
+    "Onesignal Id": "a0cfc154-864b-4fb9-82a6-9cdc83ebc603",
     "Privacy Policy": "https://tipsapp.xyz/",
     "Enable Update Activity ?": false,
     "Update Activity Customize": {
