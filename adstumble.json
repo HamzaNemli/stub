@@ -233,20 +233,20 @@
         "AppId": "dcdda0b3-d4db-40a3-a683-08a31e218360",
         "BannerId": "16d588ca-508a-44a3-985f-f8d14bdab752",
         "InterstitialId": "b2efcb8a-6555-49ee-a79a-00f9177928cf",
-        "NativeId": "",
-        "RewardId": "",
+        "NativeId": "bedb4ee5-9a48-4b0d-825c-390d83fcb851",
+        "RewardId": "39f043fe-a1f8-493c-a911-4de753796f8e",
         "OpenAdId": "98eff153-ddfd-4ada-b114-dce59cc54cf3"
       }
     },
     "Ads Configs": {
       "Enable Mediation?": false,
-      "Interstitial Interval": 6,
+      "Interstitial Interval": 3,
       "InterstitialList": ["wortise","admob","facebook","applovin","unity","huawei"],
       "RewardedList": ["wortise","admob","applovin","unity","huawei"],
       "Interstitial Network (If Mediation Disabled)": "wortise",
-      "Reward Network (If Mediation Disabled)": "admob",
+      "Reward Network (If Mediation Disabled)": "wortise",
       "Banner Network": "wortise",
-      "Native Network": "admob",
+      "Native Network": "wortise",
       "OpenAd Network": "wortise"
     }
   },
