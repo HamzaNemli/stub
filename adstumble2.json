@@ -240,7 +240,7 @@
     },
     "Ads Configs": {
       "Enable Mediation?": false,
-      "Interstitial Interval": 5,
+      "Interstitial Interval": 3,
       "InterstitialList": ["wortise","admob","facebook","applovin","unity","huawei"],
       "RewardedList": ["wortise","admob","applovin","unity","huawei"],
       "Interstitial Network (If Mediation Disabled)": "admob",
