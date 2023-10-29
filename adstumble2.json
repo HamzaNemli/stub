@@ -230,12 +230,12 @@
         "RewardId": "testx9dtjwj8hp"
       },
       "Wortise": {
-        "AppId": "",
-        "BannerId": "ae64bbca-69dd-0cb02e4b148",
-        "InterstitialId": "efea8322-e1832dd2a632",
-        "NativeId": "4fe9dcb0-e1a9353151a72",
-        "RewardId": "63377438-96874fb97ed72",
-        "OpenAdId": "70fc9820-5e129debacaf"
+        "AppId": "73c1d62a-1993-47ad-a763-54462f49eb1b",
+        "BannerId": "ac58542c-c9aa-44fc-bde5-0bb3c08ea0f8",
+        "InterstitialId": "",
+        "NativeId": "",
+        "RewardId": "",
+        "OpenAdId": "daf4254e-5e54-4607-b785-1e03654daaa9"
       }
     },
     "Ads Configs": {
