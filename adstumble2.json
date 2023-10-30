@@ -243,9 +243,9 @@
       "Interstitial Interval": 5,
       "InterstitialList": ["wortise","admob","facebook","applovin","unity","huawei"],
       "RewardedList": ["wortise","admob","applovin","unity","huawei"],
-      "Interstitial Network (If Mediation Disabled)": "admob",
-      "Reward Network (If Mediation Disabled)": "admob",
-      "Banner Network": "admob",
+      "Interstitial Network (If Mediation Disabled)": "wortise",
+      "Reward Network (If Mediation Disabled)": "wortise",
+      "Banner Network": "wortise",
       "Native Network": "wortise",
       "OpenAd Network": "wortise"
     }
