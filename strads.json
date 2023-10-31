@@ -198,11 +198,11 @@
   "Ads Controller": {
     "Ads Units": {
       "Admob": {
-        "BannerId": "ca-app-pub-5133381234787267/",
-        "InterstitialId": "ca-app-pub-5133381234787267/",
-        "NativeId": "ca-app-pub-5133381234787267/",
-        "RewardId": "ca-app-pub-5133381234787267/",
-        "OpenAdId": "ca-app-pub-5133381234787267/"
+        "BannerId": "1111111111111",
+        "InterstitialId": "1111111111111",
+        "NativeId": "1111111111111",
+        "RewardId": "1111111111111",
+        "OpenAdId": "1111111111111"
       },
       "Facebook": {
         "BannerId": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
@@ -230,12 +230,12 @@
         "RewardId": "testx9dtjwj8hp"
       },
       "Wortise": {
-        "AppId": "dcdda0b3-d4db-40a3-a683-08a31e218360",
-        "BannerId": "16d588ca-508a-44a3-985f-f8d14bdab752",
-        "InterstitialId": "b2efcb8a-6555-49ee-a79a-00f9177928cf",
-        "NativeId": "bedb4ee5-9a48-4b0d-825c-390d83fcb851",
-        "RewardId": "39f043fe-a1f8-493c-a911-4de753796f8e",
-        "OpenAdId": "98eff153-ddfd-4ada-b114-dce59cc54cf3"
+        "AppId": "1111111111111",
+        "BannerId": "1111111111111",
+        "InterstitialId": "1111111111111",
+        "NativeId": "1111111111111",
+        "RewardId": "1111111111111",
+        "OpenAdId": "1111111111111"
       }
     },
     "Ads Configs": {
