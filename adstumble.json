@@ -198,11 +198,11 @@
   "Ads Controller": {
     "Ads Units": {
       "Admob": {
-        "BannerId": "ca-app-pub-5133381234787267/",
-        "InterstitialId": "ca-app-pub-5133381234787267/",
-        "NativeId": "ca-app-pub-5133381234787267/",
-        "RewardId": "ca-app-pub-5133381234787267/",
-        "OpenAdId": "ca-app-pub-5133381234787267/"
+        "BannerId": "ca-app-pub-5133381234787267/7433563073",
+        "InterstitialId": "ca-app-pub-5133381234787267/6120481405",
+        "NativeId": "ca-app-pub-5133381234787267/7032455434",
+        "RewardId": "ca-app-pub-5133381234787267/8812440968",
+        "OpenAdId": "ca-app-pub-5133381234787267/9909900219"
       },
       "Facebook": {
         "BannerId": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
@@ -230,31 +230,31 @@
         "RewardId": "testx9dtjwj8hp"
       },
       "Wortise": {
-        "AppId": "dcdda0b3-d4db-40a3-a683-08a31e218360",
-        "BannerId": "16d588ca-508a-44a3-985f-f8d14bdab752",
-        "InterstitialId": "b2efcb8a-6555-49ee-a79a-00f9177928cf",
-        "NativeId": "bedb4ee5-9a48-4b0d-825c-390d83fcb851",
-        "RewardId": "39f043fe-a1f8-493c-a911-4de753796f8e",
-        "OpenAdId": "98eff153-ddfd-4ada-b114-dce59cc54cf3"
+        "AppId": "dcdda0b3-08a31e218360",
+        "BannerId": "16d588ca-50bdab752",
+        "InterstitialId": "b2efcb-00f9177928cf",
+        "NativeId": "bedb4ee5-9a3fcb851",
+        "RewardId": "39f043fe-a196f8e",
+        "OpenAdId": "98eff1534-dce59cc54cf3"
       }
     },
     "Ads Configs": {
       "Enable Mediation?": false,
-      "Interstitial Interval": 3,
+      "Interstitial Interval": 5,
       "InterstitialList": ["wortise","admob","facebook","applovin","unity","huawei"],
       "RewardedList": ["wortise","admob","applovin","unity","huawei"],
-      "Interstitial Network (If Mediation Disabled)": "wortise",
-      "Reward Network (If Mediation Disabled)": "wortise",
-      "Banner Network": "wortise",
-      "Native Network": "wortise",
-      "OpenAd Network": "wortise"
+      "Interstitial Network (If Mediation Disabled)": "admob",
+      "Reward Network (If Mediation Disabled)": "admob",
+      "Banner Network": "admob",
+      "Native Network": "admob",
+      "OpenAd Network": "admob"
     }
   },
   "App Settings": {
     "Enable Activity MoreGames ?": false,
     "Seconds Counter MoreGames Activity": 5,
     "Onesignal Id": "a0cfc154-864b-4fb9-82a6-9cdc83ebc603",
-    "Privacy Policy": "https://tipsapp.xyz/",
+    "Privacy Policy": "https://mapleappstudio.github.io/privacy_gt_chest_simulator.html",
     "Enable Update Activity ?": false,
     "Update Activity Customize": {
       "Image Url": "",
