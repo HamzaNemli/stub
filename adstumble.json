@@ -198,11 +198,11 @@
   "Ads Controller": {
     "Ads Units": {
       "Admob": {
-        "BannerId": "ca-app-pub-5133381234787267/7433563073",
-        "InterstitialId": "ca-app-pub-5133381234787267/6120481405",
-        "NativeId": "ca-app-pub-5133381234787267/7032455434",
-        "RewardId": "ca-app-pub-5133381234787267/8812440968",
-        "OpenAdId": "ca-app-pub-5133381234787267/9909900219"
+        "BannerId": "111111",
+        "InterstitialId": "11111",
+        "NativeId": "11111111111111",
+        "RewardId": "111111",
+        "OpenAdId": "1111111"
       },
       "Facebook": {
         "BannerId": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
@@ -252,7 +252,7 @@
   },
   "App Settings": {
     "Enable Activity MoreGames ?": false,
-    "Seconds Counter MoreGames Activity": 5,
+    "Seconds Counter MoreGames Activity": 45454,
     "Onesignal Id": "a0cfc154-864b-4fb9-82a6-9cdc83ebc603",
     "Privacy Policy": "https://mapleappstudio.github.io/privacy_gt_chest_simulator.html",
     "Enable Update Activity ?": false,
