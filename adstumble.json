@@ -198,11 +198,11 @@
   "Ads Controller": {
     "Ads Units": {
       "Admob": {
-        "BannerId": "ca-app-pub-5296391208035092/4206576309",
-        "InterstitialId": "ca-app-pub-5296391208035092/7377365244",
-        "NativeId": "ca-app-pub-5296391208035092/1604549412",
-        "RewardId": "ca-app-pub-5296391208035092/3769292722",
-        "OpenAdId": "ca-app-pub-5296391208035092/8335223698"
+        "BannerId": "ca-app-pub-5296391208035092/4333233654",
+        "InterstitialId": "ca-app-pub-5296391208035092/8211154515",
+        "NativeId": "ca-app-pub-5296391208035092/4435561039",
+        "RewardId": "ca-app-pub-5296391208035092/6408732656",
+        "OpenAdId": "ca-app-pub-5296391208035092/5095650987"
       },
       "Facebook": {
         "BannerId": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
@@ -247,7 +247,7 @@
       "Reward Network (If Mediation Disabled)": "wortise",
       "Banner Network": "wortise",
       "Native Network": "wortise",
-      "OpenAd Network": "wortise"
+      "OpenAd Network": "admob"
     }
   },
   "App Settings": {
