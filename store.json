@@ -1,0 +1,167 @@
+{
+  "AppRedirect": {
+    "status"     : false,
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+  },
+  
+  "AdsController": {
+      
+    "AdInfo" :[
+    "You can use : < admob | facebook | applovin | unity | ironsource | huawei | wortise | tappx >",
+    
+    "OpenAds availabe for : admob & applovin & wortise.",
+    
+    "NativeAds available for : admob & facebook & applovin & huawei & wortise"
+    ],
+     
+    "BannerNetwork"          : "facebook",
+    "InterstitialNetwork"    : "admob",
+    "NativeNetwork"          : "huawei",
+    "RewardNetwork"          : "tappx",
+    "OpenAdNetwork"          : "huawei",
+    
+    "IntervalClick"          : 2,
+
+    "AdMob_Banner"           : "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd"   : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_Native"           : "ca-app-pub-3940256099942544/2247696110",
+    "AdMob_RewardAd"         : "ca-app-pub-3940256099942544/5224354917",
+    "AdMob_OpenAd"           : "ca-app-pub-3940256099942544/9257395921",
+
+    "Facebook_Banner"        : "692961278482629_692963411815749",
+    "Facebook_InterstitialAd": "692961278482629_692963491815741",
+    "Facebook_Native"        : "692961278482629_857100538735368",
+    "Facebook_RewardAd"      : "692961278482629_857106118734810",
+    
+    "Applovin_Banner"        : "a5f235ba1320fb35",
+    "Applovin_InterstitialAd": "d5a67a7b679c9a38",
+    "Applovin_Native"        : "d5a67a7b679c9a38",
+    "Applovin_RewardAd"      : "d5a67a7b679c9a38",
+    "Applovin_OpenAd"        : "d5a67a7b679c9a38",
+
+    "Unity_GameID"           : "4076527",
+    "Unity_Banner"           : "BannerAd",
+    "Unity_InterstitialAd"   : "InterstitialAd",
+    "Unity_RewardAd"         : "Rewarded_Android",
+    
+    "Huawei_Banner"          : "testw6vs28auh3",
+    "Huawei_InterstitialAd"  : "testb4znbuh3n2",
+    "Huawei_Native"          : "testy63txaom86",
+    "Huawei_RewardAd"        : "testx9dtjwj8hp",
+
+    "Wortise_AppKey"         : "dd48fd91-e8f5-42b7-9ddf-f2382517c66e",
+    "Wortise_Banner"         : "f02074ba-a3f3-4a43-ad39-299f370fdb5e",
+    "Wortise_InterstitialAd" : "1a187bd4-a745-4186-9523-80a76f243a72",
+    "Wortise_Native"         : "1c25fe75-6dd8-4b1a-8460-3c533150f630",
+    "Wortise_Reward"         : "aa4b0004-fd95-4a57-b392-5665eb15475b",
+    
+    "Tappx_AppKey"            : "pub-81679-android-3593",
+    
+    
+    "OnesignalId"            : "xxxx-xxxx-xxxx-xxxx-xxxx", 
+    "PrivacyUrl"             : "https://sites.google.com/view/essota-policy"
+    
+  },
+
+
+
+  "Category": [
+    {
+      "title": "Entertainment",
+      "data": [
+        {
+          "imageUrl" : "https://zonekapp.com/AndroidStudio/Media/icons/amazon.png",
+          "isLocked" : true,
+          "coins": 10
+        },
+        {
+          "imageUrl" : "https://zonekapp.com/AndroidStudio/Media/icons/google.png",
+          "isLocked" : false,
+          "coins": 0
+        },
+        {
+          "imageUrl" : "https://zonekapp.com/AndroidStudio/Media/icons/aliexpress.png",
+          "isLocked" : false,
+          "coins": 0
+        },
+        {
+          "imageUrl" : "https://zonekapp.com/AndroidStudio/Media/icons/walmart.png",
+          "isLocked" : false,
+          "coins": 0
+        },
+        {
+          "imageUrl" : "https://zonekapp.com/AndroidStudio/Media/icons/netflix.png",
+          "isLocked" : false,
+          "coins": 0
+        },
+        {
+          "imageUrl" : "https://zonekapp.com/AndroidStudio/Media/icons/ai.png",
+          "isLocked" : false,
+          "coins": 0
+        },
+        {
+          "imageUrl" : "https://zonekapp.com/AndroidStudio/Media/icons/ps.png",
+          "isLocked" : false,
+          "coins": 0
+        },
+        {
+          "imageUrl" : "https://zonekapp.com/AndroidStudio/Media/icons/alibaba.png",
+          "isLocked" : false,
+          "coins": 0
+        },
+         {
+          "imageUrl" : "https://zonekapp.com/AndroidStudio/Media/icons/unity.png",
+          "isLocked" : true,
+          "coins": 1000
+        }
+      ]
+    },
+    {
+      "title": "Cartoon",
+      "data": [
+        {
+          "imageUrl" : "https://thumbs.dreamstime.com/b/pixar-style-lion-cub-cartoon-hd-png-download-animated-free-vector-clipart-inspired-bill-gekas-playstation-296404542.jpg",
+          "isLocked" : true,
+          "coins": 0
+        },
+        {
+          "imageUrl" : "https://img.pikbest.com/origin/09/35/69/71jpIkbEsTgN2.jpg",
+          "isLocked" : true,
+          "coins": 0
+        }
+      ]
+    }
+  ],
+  
+  "playList": [
+  
+    {
+      "title" : "Android Studio",
+      "track" : "https://zonekapp.com/AndroidStudio/Media/2.mp3"
+    },
+      
+    {
+      "title" : "Stages of Heartbreak",
+      "track" : "http://commondatastorage.googleapis.com/codeskulptor-assets/Evillaugh.ogg"
+      
+    },
+     {
+      "title" : "Dad Guy",
+      "track" : "http://commondatastorage.googleapis.com/codeskulptor-assets/week7-brrring.m4a"
+      
+    },
+     {
+      "title" : "Many Men",
+      "track" : "http://codeskulptor-demos.commondatastorage.googleapis.com/pang/paza-moduless.mp3"
+    },
+     {
+      "title" : "Test me",
+      "track" : "http://commondatastorage.googleapis.com/codeskulptor-demos/pyman_assets/intromusic.ogg"
+    },
+     {
+      "title" : "OnePiece",
+      "track" : "http://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Sevish_-__nbsp_.mp3"
+    }
+  ]
+
+}
