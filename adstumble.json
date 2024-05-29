@@ -243,16 +243,16 @@
       "Interstitial Interval": 5,
       "InterstitialList": ["wortise","admob","facebook","applovin","unity","huawei"],
       "RewardedList": ["wortise","admob","applovin","unity","huawei"],
-      "Interstitial Network (If Mediation Disabled)": "wortise",
+      "Interstitial Network (If Mediation Disabled)": "admob",
       "Reward Network (If Mediation Disabled)": "wortise",
-      "Banner Network": "wortise",
+      "Banner Network": "admob",
       "Native Network": "wortise",
       "OpenAd Network": "admob"
     }
   },
   "App Settings": {
     "Enable Activity MoreGames ?": false,
-    "Seconds Counter MoreGames Activity": 45454,
+    "Seconds Counter MoreGames Activity": 10,
     "Onesignal Id": "a0cfc154-864b-4fb9-82a6-9cdc83ebc603",
     "Privacy Policy": "https://mapleappstudio.github.io/privacy_gt_chest_simulator.html",
     "Enable Update Activity ?": false,
