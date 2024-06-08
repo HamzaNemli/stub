@@ -205,9 +205,9 @@
         "OpenAdId": "ca-app-pub-5296391208035092/5095650987"
       },
       "Facebook": {
-        "BannerId": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
-        "InterstitialId": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
-        "NativeId": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782"
+        "BannerId": "754188816077634_779988690164313",
+        "InterstitialId": "754188816077634_779988466831002",
+        "NativeId": "754188816077634_988004762696037"
       },
       "Applovin": {
         "BannerId": "789ecf46a4aaa724",
@@ -243,11 +243,11 @@
       "Interstitial Interval": 5,
       "InterstitialList": ["wortise","admob","facebook","applovin","unity","huawei"],
       "RewardedList": ["wortise","admob","applovin","unity","huawei"],
-      "Interstitial Network (If Mediation Disabled)": "admob",
-      "Reward Network (If Mediation Disabled)": "wortise",
-      "Banner Network": "admob",
-      "Native Network": "wortise",
-      "OpenAd Network": "admob"
+      "Interstitial Network (If Mediation Disabled)": "facebook",
+      "Reward Network (If Mediation Disabled)": "facebook",
+      "Banner Network": "facebook",
+      "Native Network": "facebook",
+      "OpenAd Network": "facebook"
     }
   },
   "App Settings": {
