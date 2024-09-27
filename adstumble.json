@@ -217,11 +217,11 @@
         "OpenAdId": "57c0ea23bdb3c49b"
       },
       "Unity": {
-        "GameId": "4862004",
+        "GameId": "4564273",
         "BannerId": "Banner_Android",
         "InterstitialId": "Interstitial_Android",
         "RewardId": "Rewarded_Android",
-        "TestAds": true
+        "TestAds": false
       },
       "Huawei": {
         "BannerId": "testw6vs28auh3",
@@ -240,14 +240,14 @@
     },
     "Ads Configs": {
       "Enable Mediation?": false,
-      "Interstitial Interval": 5,
+      "Interstitial Interval": 3,
       "InterstitialList": ["wortise","admob","facebook","applovin","unity","huawei"],
       "RewardedList": ["wortise","admob","applovin","unity","huawei"],
       "Interstitial Network (If Mediation Disabled)": "facebook",
-      "Reward Network (If Mediation Disabled)": "facebook",
+      "Reward Network (If Mediation Disabled)": "unity",
       "Banner Network": "facebook",
       "Native Network": "facebook",
-      "OpenAd Network": "facebook"
+      "OpenAd Network": "wortise"
     }
   },
   "App Settings": {
