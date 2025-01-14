@@ -198,8 +198,8 @@
   "Ads Controller": {
     "Ads Units": {
       "Admob": {
-        "BannerId": "ca-app-pub-5296391208035092/4333233654",
-        "InterstitialId": "ca-app-pub-5296391208035092/8211154515",
+        "BannerId": "ca-app-pub-52963912080350/4333233654",
+        "InterstitialId": "ca-app-pub-529639120803/8211154515",
         "NativeId": "ca-app-pub-5296391208035092/4435561039",
         "RewardId": "ca-app-pub-5296391208035092/6408732656",
         "OpenAdId": "ca-app-pub-5296391208035092/5095650987"
